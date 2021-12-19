@@ -11,12 +11,13 @@ p {
     font-size: 10px;
     color: black;
     flex-direction: column;
+    line-height: 150%;
 }
 
 .sestina div {
-    border: 8px ridge #f00;
+    border: 10px ridge #f00;
     background-color: #ff0;
-    padding: 0.5rem;
+    padding: 0.1rem;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -30,7 +31,7 @@ p {
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    padding: 0.2rem;
+    padding: 0.1rem;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -40,6 +41,7 @@ p {
     font-size: large;
     font-style: normal;
     font-family: Arial, Helvetica, sans-serif;
+
 }
 
 .sestina pre {
@@ -52,10 +54,9 @@ p {
 }
 
 div {
-    width: 90%;
+    width: 100%;
     margin: auto;
     border: 10px rgb(222, 181, 135);
-    display: flex;
 }
 
 hr {
@@ -77,7 +78,7 @@ hr {
     text-align: center;
     color: #fff;
     text-shadow: 1px 1px 1px #000;
-    border-radius: 8px;
+    border-radius: 10px;
     background-color: rgba(0, 100, 250, 1);
     background-image: linear-gradient( to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
     box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rbga(0, 0, 0, 0.6);
