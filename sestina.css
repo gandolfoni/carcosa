@@ -55,7 +55,7 @@ p {
 
 div {
     width: 100%;
-    margin: 50%;
+    margin: flex;
     border: 10px rgb(222, 181, 135);
 }
 
