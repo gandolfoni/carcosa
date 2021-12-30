@@ -91,3 +91,17 @@ hr {
 .styled:active {
     box-shadow: inset -2px -2px 3px rgba(255, 255, 255, -6), inset 2px 2px 3px rbg(0, 0, 0, 0.6);
 }
+
+.Contact-BTN {
+    width: auto;
+    background-color: #4c47f7
+    margin: 8px;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: 1.4px;
+    margin-top: 24px;
+}
